@@ -1,6 +1,6 @@
-# IDOR — In-Depth Vulnerability Research
+# IDOR - In-Depth Vulnerability Research
 
-An internship-oriented research repository on Insecure Direct Object Reference (IDOR): how object-level authorization fails, how VAPT professionals validate the failure safely, how impact is assessed, and how developers prevent recurrence.
+An research repository on Insecure Direct Object Reference (IDOR): how object-level authorization fails, how VAPT professionals validate the failure safely, how impact is assessed, and how developers prevent recurrence.
 ![[![IDOR vuln.png](https://github.com/Guptaharshal1515/IDOR/blob/main/assets/images/IDOR%20vuln.png)]]
 ## Scope and objectives
 
